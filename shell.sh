@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the list of projects to choose from
-PROJECTS=("ganesha001" "netaji-001")
+PROJECTS=("project-1" "project-2" "project-3" "project-4")
 
 # Create the output file
 OUTPUT_FILE="instances.csv"
